@@ -38,6 +38,14 @@ Dependencies
 
 -  A recent NumPy\_ release.
 
+Execution
+---------
+**amem** is invoked as follows:
+
+.. code-block:: bash
+
+  $ python amem
+
 Citation
 --------
 If you publish results for which you used **amem**, please give credit by citing
